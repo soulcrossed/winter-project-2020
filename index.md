@@ -1,1 +1,2 @@
 <img src="sc-winter-project-1.png" alt="sc-winter-project-1">
+<img src="sc-winter-project-1.5.png" alt="sc-winter-project-1.5">
